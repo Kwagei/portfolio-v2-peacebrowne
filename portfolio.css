@@ -1,0 +1,14 @@
+
+  .hero-section {
+    height: 50vh;
+  }
+  
+  .hero-content{
+    width: 100%;
+    text-align: center;
+    align-items: center;
+  }
+
+  .hero-introduction{
+    padding: 0;
+  }

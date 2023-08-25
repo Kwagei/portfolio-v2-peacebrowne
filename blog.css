@@ -1,0 +1,47 @@
+
+.hero-section {
+    height: 50vh;
+  }
+  
+  .hero-content{
+    width: 100%;
+    text-align: center;
+    align-items: center;
+  }
+
+  .hero-introduction{
+    padding: 0;
+  }
+
+  .blog-post{
+    padding: 4rem;
+  }
+
+  .blog-post img{
+    width: 100%;
+    height: 30rem;
+    margin: 1rem 0;
+  }
+
+  .blog-text{
+    line-height: 1.7rem;
+}
+
+  .post-title{
+    font-weight: 600;
+    font-size: 2rem;
+  }
+
+  .post-title-name{
+    font-weight: 600;
+    font-size: 1.5rem;
+    margin-left: 1.5rem;
+  }
+
+  .post-date, .post-date-name{
+    font-weight: 600;
+  }
+
+  li{
+    list-style: none;
+  }
